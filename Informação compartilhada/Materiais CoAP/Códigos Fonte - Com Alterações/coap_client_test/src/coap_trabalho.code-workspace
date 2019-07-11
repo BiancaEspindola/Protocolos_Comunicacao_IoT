@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "coap_server_test",
+			"path": "C:\\Users\\patri\\Documents\\PlatformIO\\Projects\\coap_server_test"
+		},
+		{
+			"name": "coap_client_test",
+			"path": "C:\\Users\\patri\\Documents\\PlatformIO\\Projects\\coap_client_test"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\patri\\.platformio\\penv\\Scripts;C:\\Users\\patri\\.platformio\\penv;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Users\\patri\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\patri\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\patri\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\patri\\AppData\\Roaming\\npm;C:\\Users\\patri\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Users\\patri\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\patri\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\patri\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\patri\\AppData\\Roaming\\npm;C:\\Users\\patri\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
